@@ -1,7 +1,7 @@
 /*
 QMMVM - VM Wrapper Tool
 Copyright 2004-2024
-https://github.com/thecybermind/qmm/
+https://github.com/thecybermind/qmmvm/
 3-clause BSD license: https://opensource.org/license/bsd-3-clause
 
 Created By:
