@@ -79,7 +79,7 @@ BEGIN
             VALUE "FileDescription", "qmmvm\0"
             VALUE "FileVersion", QMMVM_VERSION "\0"
             VALUE "InternalName", "qmmvm\0"
-            VALUE "LegalCopyright", "Copyright © 2004\0"
+            VALUE "LegalCopyright", "Copyright 2004-?\0"
             VALUE "LegalTrademarks", "Quake is probably a trademark of id games\0"
             VALUE "OriginalFilename", "qmmvm.dll\0"
             VALUE "PrivateBuild", "\0"
